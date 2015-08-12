@@ -116,7 +116,7 @@ HEADER
 }
 
 .header img {
-  height: 42px;
+  height: 250px;
   margin-bottom: 0.8em;
 }
 
@@ -190,13 +190,18 @@ MOBILE
     font-size: 20px;
   }
 
+  .header img {
+    height: 150px;
+    margin-bottom: 0.8em;
+  }
+
   p.large {
     font-size: 1em;
   }
 
   .header,
   .content {
-    padding: 2em 0;
+    padding: 1em 0;
   }
 
   td, th {
