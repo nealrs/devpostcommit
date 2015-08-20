@@ -155,6 +155,20 @@ a.button:active {
   border-width: 2px 0 0;
 }
 
+a.button.alt {
+  background: #77ad39;
+  border-color: #5d872c;
+}
+
+a.button.alt:focus,
+a.button.alt:hover {
+  background: #669431;
+  border-color: #436120;
+}
+
+
+
+
 .contact {
   margin: 2em 0;
   background: #f0f0f0;
