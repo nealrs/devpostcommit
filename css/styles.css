@@ -233,5 +233,9 @@ MOBILE
   .footer-interior {
     padding: 1em;
   }
+  
+  h2 {
+    font-size: 20px;
+  }
 
 }
