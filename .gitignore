@@ -14,6 +14,7 @@
 Gemfile.lock
 _site/
 /_site/
+_site/*
 bbin/
 coverage
 gh-pages/
