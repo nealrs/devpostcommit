@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Tue, 07 Jun 2016 15:29:52 -0400</pubDate>
-    <lastBuildDate>Tue, 07 Jun 2016 15:29:52 -0400</lastBuildDate>
+    <pubDate>Thu, 09 Jun 2016 13:30:35 -0400</pubDate>
+    <lastBuildDate>Thu, 09 Jun 2016 13:30:35 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -33,13 +33,13 @@
       <itunes:duration>346.0</itunes:duration>
       <pubDate>Thu, 09 Jun 2016 08:00:00 -0400</pubDate>
       <itunes:subtitle>Meet the developers at NYC's hottest real estate startup</itunes:subtitle>
-      <itunes:summary><![CDATA[This week, we sent Neal uptown to VTS, a startup building software for commercial real estate management.
+      <itunes:summary><![CDATA[This week, we went uptown to meet VTS, a startup building software for commercial real estate management.
 
 We’ll show you how the dev team is structured, VTS’ full-stack approach to mobile, how much product input engineers have, what they’ve learned about software development, and more.
 
 Get the full scoop on VTS’ open jobs in NYC, hiring process, and team by visiting their team page: http://devpost.com/teams/vts
 ]]></itunes:summary>
-      <description><![CDATA[<p>This week, we sent Neal uptown to <a href="http://vts.com">VTS</a>, a startup building software for commercial real estate management.</p><p>We’ll show you how the dev team is structured, VTS’ full-stack approach to mobile, how much product input engineers have, what they’ve learned about software development, and more.</p><p>Get the full scoop on VTS’ open jobs in NYC, hiring process, and team by visiting their team page: <a href="http://devpost.com/teams/vts">http://devpost.com/teams/vts</a></p>]]></description>
+      <description><![CDATA[<p>This week, we went uptown to meet <a href="http://vts.com">VTS</a>, a startup building software for commercial real estate management.</p><p>We’ll show you how the dev team is structured, VTS’ full-stack approach to mobile, how much product input engineers have, what they’ve learned about software development, and more.</p><p>Get the full scoop on VTS’ open jobs in NYC, hiring process, and team by visiting their team page: <a href="http://devpost.com/teams/vts">http://devpost.com/teams/vts</a></p>]]></description>
       <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/se3.mp4</guid>
       <category>Technology</category>
       <enclosure length="533646921" url="http://devpostcommit.s3.amazonaws.com/video/se3.mp4" type="video/mp4"/>
