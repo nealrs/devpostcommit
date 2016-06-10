@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 09 Jun 2016 13:30:35 -0400</pubDate>
-    <lastBuildDate>Thu, 09 Jun 2016 13:30:35 -0400</lastBuildDate>
+    <pubDate>Fri, 10 Jun 2016 11:18:20 -0400</pubDate>
+    <lastBuildDate>Fri, 10 Jun 2016 11:18:20 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,25 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>Jamchester Staff Picks</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>103.0</itunes:duration>
+      <pubDate>Fri, 10 Jun 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Our favorite entries from the UK's first major Game Jam</itunes:subtitle>
+      <itunes:summary><![CDATA[Just a quickie about our favorite entries from Jamchester, the UK’s first major Game Jam aimed at industry pros. The theme was “you’ve already won,” which led to some awesome games.
+
+Neal’s pick: Head Home
+
+Richard’s pick: Last Man Standing
+]]></itunes:summary>
+      <description><![CDATA[<p>Just a quickie about our favorite entries from <a href="http://jamchester.devpost.com/submissions">Jamchester</a>, the UK’s first major Game Jam aimed at industry pros. The theme was “you’ve already won,” which led to some awesome games.</p><p>Neal’s pick: <a href="http://devpost.com/software/acid-nerve-feat-angus-dick-aiuq4y">Head Home</a></p><p>Richard’s pick: <a href="http://devpost.com/software/clever-beans-zxn79o">Last Man Standing</a></p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/q1.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="134073481" url="http://devpostcommit.s3.amazonaws.com/video/q1.mp4" type="video/mp4"/>
+    </item>
     
     <item>
       <title>Inside VTS</title>
