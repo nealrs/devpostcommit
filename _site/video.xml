@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Fri, 10 Jun 2016 11:18:20 -0400</pubDate>
-    <lastBuildDate>Fri, 10 Jun 2016 11:18:20 -0400</lastBuildDate>
+    <pubDate>Thu, 16 Jun 2016 10:50:57 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Jun 2016 10:50:57 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,21 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>Portfolios and Mentorship with Rebecca Garcia </title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>359.0</itunes:duration>
+      <pubDate>Thu, 16 Jun 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Juice up your job hunt</itunes:subtitle>
+      <itunes:summary><![CDATA[Rebecca Garcia joined us this week to drop some knowledge about what to highlight in your portfolio, mentorship, CoderDojo NYC, Passion x Purpose (her apprenticeship &amp; mentorship program), and more.
+]]></itunes:summary>
+      <description><![CDATA[<p>Rebecca Garcia joined us this week to drop some knowledge about what to highlight in your portfolio, mentorship, <a href="http://www.coderdojonyc.org/about">CoderDojo NYC</a>, <a href="http://www.passionxpurpose.com">Passion x Purpose</a> (her apprenticeship &amp; mentorship program), and more.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c43.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="467932554" url="http://devpostcommit.s3.amazonaws.com/video/c43.mp4" type="video/mp4"/>
+    </item>
     
     <item>
       <title>Jamchester Staff Picks</title>
