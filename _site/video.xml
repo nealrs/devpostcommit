@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 16 Jun 2016 10:50:57 -0400</pubDate>
-    <lastBuildDate>Thu, 16 Jun 2016 10:50:57 -0400</lastBuildDate>
+    <pubDate>Thu, 23 Jun 2016 09:48:18 -0400</pubDate>
+    <lastBuildDate>Thu, 23 Jun 2016 09:48:18 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,25 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>Inside Justworks</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>363.0</itunes:duration>
+      <pubDate>Thu, 23 Jun 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>How engineers and benefits specialists are working together to streamline Human Resources for small and mid-size businesses</itunes:subtitle>
+      <itunes:summary><![CDATA[This week, we went to Justworks to see how engineers and benefits specialists are working together to streamline Human Resources for small and mid-size business across America.
+
+We learned about self-directed teams, culture, remote work (and robots!), the tech stack (Ruby on Rails, AWS, MySQL, Redshift, React), and more.
+
+Want to join the team? Check out Justworks’ team page: http://devpost.com/teams/justworks
+]]></itunes:summary>
+      <description><![CDATA[<p>This week, we went to <a href="http://justworks.com">Justworks</a> to see how engineers and benefits specialists are working together to streamline Human Resources for small and mid-size business across America.</p><p>We learned about self-directed teams, culture, remote work (and robots!), the tech stack (Ruby on Rails, AWS, MySQL, Redshift, React), and more.</p><p>Want to join the team? Check out Justworks’ team page: <a href="http://devpost.com/teams/justworks">http://devpost.com/teams/justworks</a></p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/se4.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="466194169" url="http://devpostcommit.s3.amazonaws.com/video/se4.mp4" type="video/mp4"/>
+    </item>
     
     <item>
       <title>Portfolios and Mentorship with Rebecca Garcia </title>
