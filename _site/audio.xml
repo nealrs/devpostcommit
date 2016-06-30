@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 23 Jun 2016 09:48:18 -0400</pubDate>
-    <lastBuildDate>Thu, 23 Jun 2016 09:48:18 -0400</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2016 09:30:20 -0400</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2016 09:30:20 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,21 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>Making mobile games at Small Planet</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>494.0</itunes:duration>
+      <pubDate>Thu, 30 Jun 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>What do game developers actually do??</itunes:subtitle>
+      <itunes:summary><![CDATA[Ever wonder what game developers do all day? Or if making games is different than making apps? This week on The Commit, we asked Taylor Plimpton, a Senior Developer at Small Planet (a digital agency in Brooklyn, NY), to share the ins and out of game development, tools &amp; tech, dev process, what kind of input developers have on the final product, and more!
+]]></itunes:summary>
+      <description><![CDATA[<p>Ever wonder what game developers do all day? Or if making games is different than making apps? This week on The Commit, we asked Taylor Plimpton, a Senior Developer at <a href="http://smallplanet.com">Small Planet</a> (a digital agency in Brooklyn, NY), to share the ins and out of game development, tools &amp; tech, dev process, what kind of input developers have on the final product, and more!</p>]]></description>
+      <guid isPermaLink="true"></guid>
+      <category>Technology</category>
+      <enclosure length="" url="" type="audio/mpeg"/>
+    </item>
     
     <item>
       <title>Inside Justworks</title>
