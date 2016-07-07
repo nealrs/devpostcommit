@@ -12,8 +12,8 @@
 /test/source/file_name.txt
 /vendor
 Gemfile.lock
-_site/
-/_site/
+_site/*
+/_site/*
 _site/*
 bbin/
 coverage
