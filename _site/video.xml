@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 07 Jul 2016 10:55:46 -0400</pubDate>
-    <lastBuildDate>Thu, 07 Jul 2016 10:55:46 -0400</lastBuildDate>
+    <pubDate>Thu, 14 Jul 2016 10:11:20 -0400</pubDate>
+    <lastBuildDate>Thu, 14 Jul 2016 10:11:20 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,23 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>What are stock options?</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>376.0</itunes:duration>
+      <pubDate>Thu, 14 Jul 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Options, grants, vesting, cliffs, more!</itunes:subtitle>
+      <itunes:summary><![CDATA[An important part of evaluating a startup job offer is understanding your stock options. This week on the Commit, our CEO Brandon Kessler has some great tips that’ll get you past the jargon and the hype.
+
+Things we’ll discuss: stock options, grants, vesting periods, strike price, exercising your options, liquidity events, IPOs, and acquisitions.
+]]></itunes:summary>
+      <description><![CDATA[<p>An important part of evaluating a startup job offer is understanding your stock options. This week on the Commit, our CEO Brandon Kessler has some great tips that’ll get you past the jargon and the hype.</p><p>Things we’ll discuss: stock options, grants, vesting periods, strike price, exercising your options, liquidity events, IPOs, and acquisitions.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c46.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="486289401" url="http://devpostcommit.s3.amazonaws.com/video/c46.mp4" type="video/mp4"/>
+    </item>
     
     <item>
       <title>Developer job hunting crash course</title>
