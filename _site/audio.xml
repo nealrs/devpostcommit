@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 14 Jul 2016 10:11:20 -0400</pubDate>
-    <lastBuildDate>Thu, 14 Jul 2016 10:11:20 -0400</lastBuildDate>
+    <pubDate>Thu, 28 Jul 2016 11:19:56 -0400</pubDate>
+    <lastBuildDate>Thu, 28 Jul 2016 11:19:56 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,23 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>How to ace technical interviews</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>475.0</itunes:duration>
+      <pubDate>Thu, 28 Jul 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>3 common interview questions</itunes:subtitle>
+      <itunes:summary><![CDATA[Don’t let technical interviews stress you out - they’re your chance to show off all your awesome problem solving skills. In this week’s Commit, Metric Collective’s CTO Kevin Dolan lays out 3 types of common interview questions (quizzes, experience, hypotheticals) and how to approach them. 🔑🔑🔑
+
+Next week, Richard and Kevin will be back to hit the whiteboard!
+]]></itunes:summary>
+      <description><![CDATA[<p>Don’t let technical interviews stress you out - they’re your chance to show off all your awesome problem solving skills. In this week’s Commit, Metric Collective’s CTO Kevin Dolan lays out 3 types of common interview questions (quizzes, experience, hypotheticals) and how to approach them. 🔑🔑🔑</p><p>Next week, Richard and Kevin will be back to hit the whiteboard!</p>]]></description>
+      <guid isPermaLink="true"></guid>
+      <category>Technology</category>
+      <enclosure length="" url="" type="audio/mpeg"/>
+    </item>
     
     <item>
       <title>What are stock options?</title>
