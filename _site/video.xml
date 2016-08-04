@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 28 Jul 2016 11:19:56 -0400</pubDate>
-    <lastBuildDate>Thu, 28 Jul 2016 11:19:56 -0400</lastBuildDate>
+    <pubDate>Thu, 04 Aug 2016 13:12:39 -0400</pubDate>
+    <lastBuildDate>Thu, 04 Aug 2016 13:12:39 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,23 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>Solving the Battleship interview question</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>579.0</itunes:duration>
+      <pubDate>Thu, 04 Aug 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Forget FizzBuzz - this is way more fun</itunes:subtitle>
+      <itunes:summary><![CDATA[Last week’s episode about technical interview was a hit, so we asked Kevin to come back and show us how to solve a common hypothetical interview question. He suggested one of his favorites: programming the classic board game Battleship.
+
+There are three parts to the solution: rules &amp; assumptions, setup (placing ships on the board), and  missile firing (calculating hits). Got questions? Post them on YouTube!
+]]></itunes:summary>
+      <description><![CDATA[<p><a href="https://youtu.be/GBp0yIdJtUk">Last week’s episode about technical interview</a> was a hit, so we asked Kevin to come back and show us how to solve a common hypothetical interview question. He suggested one of his favorites: programming the classic board game Battleship.</p><p>There are three parts to the solution: rules &amp; assumptions, setup (placing ships on the board), and  missile firing (calculating hits). Got questions? Post them on YouTube!</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c48.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="747636774" url="http://devpostcommit.s3.amazonaws.com/video/c48.mp4" type="video/mp4"/>
+    </item>
     
     <item>
       <title>How to ace technical interviews</title>
