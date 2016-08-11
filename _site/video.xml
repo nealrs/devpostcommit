@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 04 Aug 2016 13:12:39 -0400</pubDate>
-    <lastBuildDate>Thu, 04 Aug 2016 13:12:39 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Aug 2016 11:21:28 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Aug 2016 11:21:28 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,23 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>What's the difference between Junior & Senior developers?</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>294.0</itunes:duration>
+      <pubDate>Thu, 11 Aug 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>It's more than just bigger paychecks, right?</itunes:subtitle>
+      <itunes:summary><![CDATA[Today we’re sitting down with our CTO Matt Gerrior to discuss the differences between Junior and Senior developers. Remember, years of experience is just a number. As Matt explains, Seniors exhibit ownership and take a proactive team view, while Juniors should focus on learning about the product, so they can contribute to it.
+
+We’ll talk about duties / responsibilities, character traits, and answer some common other common questions. Hope you dig it!
+]]></itunes:summary>
+      <description><![CDATA[<p>Today we’re sitting down with our CTO Matt Gerrior to discuss the differences between Junior and Senior developers. Remember, years of experience is just a number. As Matt explains, Seniors exhibit ownership and take a proactive team view, while Juniors should focus on learning about the product, so they can contribute to it.</p><p>We’ll talk about duties / responsibilities, character traits, and answer some common other common questions. Hope you dig it!</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c49.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="376835921" url="http://devpostcommit.s3.amazonaws.com/video/c49.mp4" type="video/mp4"/>
+    </item>
     
     <item>
       <title>Solving the Battleship interview question</title>
