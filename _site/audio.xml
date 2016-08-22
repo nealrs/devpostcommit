@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 11 Aug 2016 11:21:28 -0400</pubDate>
-    <lastBuildDate>Thu, 11 Aug 2016 11:21:28 -0400</lastBuildDate>
+    <pubDate>Mon, 22 Aug 2016 17:25:42 -0400</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2016 17:25:42 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,21 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>New job milestones</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>447.0</itunes:duration>
+      <pubDate>Thu, 18 Aug 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Day 1, Week 1, Quarter 1</itunes:subtitle>
+      <itunes:summary><![CDATA[You got the job. Congrats! Now, do you know what to expect on your first day? How about during your first week, month, or quarter? Watch this week’s Commit to learn about major milestones for a new junior Rails developer.
+]]></itunes:summary>
+      <description><![CDATA[<p>You got the job. Congrats! Now, do you know what to expect on your first day? How about during your first week, month, or quarter? Watch this week’s Commit to learn about major milestones for a new junior Rails developer.</p>]]></description>
+      <guid isPermaLink="true"></guid>
+      <category>Technology</category>
+      <enclosure length="" url="" type="audio/mpeg"/>
+    </item>
     
     <item>
       <title>What's the difference between Junior & Senior developers?</title>
