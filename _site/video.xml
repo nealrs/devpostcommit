@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 22 Aug 2016 17:25:42 -0400</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2016 17:25:42 -0400</lastBuildDate>
+    <pubDate>Thu, 01 Sep 2016 10:16:58 -0400</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2016 10:16:58 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,21 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>How to find a mentor</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>551.0</itunes:duration>
+      <pubDate>Thu, 01 Sep 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>ft. Rob Spectre from Twilio</itunes:subtitle>
+      <itunes:summary><![CDATA[9 out of 10 Medium posts agree: you need a mentor. But what do career mentors actually do? How will they help you become a better developer? And how do you even find one? Twilio’s Rob Spectre joins us to answer the tough questions!
+]]></itunes:summary>
+      <description><![CDATA[<p>9 out of 10 Medium posts agree: you need a mentor. But what do career mentors actually do? How will they help you become a better developer? And how do you even find one? Twilio’s Rob Spectre joins us to answer the tough questions!</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c51.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="713950299" url="http://devpostcommit.s3.amazonaws.com/video/c51.mp4" type="video/mp4"/>
+    </item>
     
     <item>
       <title>New job milestones</title>
