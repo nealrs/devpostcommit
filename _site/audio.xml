@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 01 Sep 2016 10:16:58 -0400</pubDate>
-    <lastBuildDate>Thu, 01 Sep 2016 10:16:58 -0400</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2016 12:00:04 -0400</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2016 12:00:04 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,21 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>How hackathons can help your career</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>467.0</itunes:duration>
+      <pubDate>Thu, 08 Sep 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>ft. Eric Wu from hackNY</itunes:subtitle>
+      <itunes:summary><![CDATA[We like to talk about hackathons because they’re fun. And of course, there’s the “pizza, caffeine, and staying up late” stereotype. But, hackathons can help your career &amp; personal development. On today’s episode of The Commit, HackNY Director Eric Wu shares some lessons from over 10 years of hackathoning.
+]]></itunes:summary>
+      <description><![CDATA[<p>We like to talk about hackathons because they’re fun. And of course, there’s the “pizza, caffeine, and staying up late” stereotype. But, hackathons <em>can</em> help your career &amp; personal development. On today’s episode of The Commit, HackNY Director Eric Wu shares some lessons from over 10 years of hackathoning.</p>]]></description>
+      <guid isPermaLink="true"></guid>
+      <category>Technology</category>
+      <enclosure length="" url="" type="audio/mpeg"/>
+    </item>
     
     <item>
       <title>How to find a mentor</title>
