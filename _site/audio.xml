@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Thu, 08 Sep 2016 12:00:04 -0400</pubDate>
-    <lastBuildDate>Thu, 08 Sep 2016 12:00:04 -0400</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2016 18:06:28 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2016 18:06:28 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,29 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>How to quit your job - the right way</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>265.0</itunes:duration>
+      <pubDate>Thu, 13 Oct 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>ft. Bie Aweh from Dev Bootcamp</itunes:subtitle>
+      <itunes:summary><![CDATA[So you got a job offer. Instead of yelling “I quit!” and flipping a table on your way out the door, take Dev Bootcamp Career Developer Bie Aweh’s advice on how to leave your old job (without burning any bridges):
+
+1. Give notice
+
+2. Wrap up your work
+
+3. Do an exit interview
+
+4. Leave on good terms
+]]></itunes:summary>
+      <description><![CDATA[<p>So you got a job offer. Instead of yelling “I quit!” and flipping a table on your way out the door, take Dev Bootcamp Career Developer Bie Aweh’s advice on how to leave your old job (without burning any bridges):</p><h3 id="give-notice">1. Give notice</h3><h3 id="wrap-up-your-work">2. Wrap up your work</h3><h3 id="do-an-exit-interview">3. Do an exit interview</h3><h3 id="leave-on-good-terms">4. Leave on good terms</h3>]]></description>
+      <guid isPermaLink="true"></guid>
+      <category>Technology</category>
+      <enclosure length="" url="" type="audio/mpeg"/>
+    </item>
     
     <item>
       <title>How hackathons can help your career</title>
