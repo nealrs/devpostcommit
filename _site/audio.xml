@@ -6,8 +6,8 @@
     <itunes:author>Devpost Inc.</itunes:author>
     <copyright>&#xA9; Devpost Inc.</copyright>
     <language>en-us</language>
-    <pubDate>Wed, 19 Oct 2016 10:26:07 -0400</pubDate>
-    <lastBuildDate>Wed, 19 Oct 2016 10:26:07 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2016 12:33:48 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2016 12:33:48 -0400</lastBuildDate>
     <itunes:category text="Technology">
       
       <itunes:category text="Tech News"/>
@@ -25,6 +25,25 @@
       <itunes:email>info@devpost.com</itunes:email>
     </itunes:owner>
 
+    
+    <item>
+      <title>How to prepare for coding interviews</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>306.0</itunes:duration>
+      <pubDate>Thu, 27 Oct 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>ft. Parker Phinney from InterviewCake</itunes:subtitle>
+      <itunes:summary><![CDATA[Parker Phinney, founder of InterviewCake, stops by to tell us about coding tests, what to look out for, what to prepare, and how to deal with tough questions.
+
+The bottom line is: you can LEARN how to ace coding tests - it’s not really testing how well you can program.
+
+So, anxiety begone - because we’ve got your back!
+]]></itunes:summary>
+      <description><![CDATA[<p>Parker Phinney, founder of <a href="http://interviewcake.com">InterviewCake</a>, stops by to tell us about coding tests, what to look out for, what to prepare, and how to deal with tough questions.</p><p>The bottom line is: you can LEARN how to ace coding tests - it’s not really testing how well you can program.</p><p>So, anxiety begone - because we’ve got your back!</p>]]></description>
+      <guid isPermaLink="true"></guid>
+      <category>Technology</category>
+      <enclosure length="" url="" type="audio/mpeg"/>
+    </item>
     
     <item>
       <title>How to negotiate your salary like a pro</title>
